@@ -1,0 +1,154 @@
+anomaly_detection_SMD_TimesNet_SMD_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9877, Precision : 0.8810, Recall : 0.8151, F-score : 0.8468 
+
+anomaly_detection_N095w_TimesNet_N095w_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9773, Precision : 0.2395, Recall : 0.6534, F-score : 0.3505 
+
+anomaly_detection_SMD_TimesNet_SMD_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9878, Precision : 0.8829, Recall : 0.8154, F-score : 0.8478 
+
+anomaly_detection_N095w_TimesNet_N095w_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9635, Precision : 0.0565, Recall : 1.0000, F-score : 0.1070 
+
+anomaly_detection_N095w_TimesNet_N095w_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9635, Precision : 0.0565, Recall : 1.0000, F-score : 0.1070 
+
+anomaly_detection_N095w_TimesNet_N095w_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9635, Precision : 0.0565, Recall : 1.0000, F-score : 0.1070 
+
+anomaly_detection_N095w_TimesNet_N095w_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9898, Precision : 0.4457, Recall : 0.3706, F-score : 0.4047 
+
+anomaly_detection_N095w_TimesNet_N095w_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9955, Precision : 0.8088, Recall : 0.6707, F-score : 0.7333 
+
+anomaly_detection_N095w_TimesNet_N095w_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9944, Precision : 0.2794, Recall : 1.0000, F-score : 0.4368 
+
+anomaly_detection_N095w_TimesNet_N095w_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9941, Precision : 0.6176, Recall : 0.6176, F-score : 0.6176 
+
+anomaly_detection_N095w_TimesNet_N095w_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9951, Precision : 0.6618, Recall : 0.6923, F-score : 0.6767 
+
+anomaly_detection_N095w_TimesNet_N095w_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9927, Precision : 0.5072, Recall : 0.5385, F-score : 0.5224 
+
+anomaly_detection_N095w_TimesNet_N095w_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9944, Precision : 0.6176, Recall : 0.6462, F-score : 0.6316 
+
+anomaly_detection_N095w_TimesNet_N095w_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9944, Precision : 0.6176, Recall : 0.6462, F-score : 0.6316 
+
+anomaly_detection_N095w_TimesNet_N095w_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9944, Precision : 0.6176, Recall : 0.6462, F-score : 0.6316 
+
+anomaly_detection_N095w_TimesNet_N095w_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9928, Precision : 0.0882, Recall : 0.8571, F-score : 0.1600 
+
+anomaly_detection_N095w_TimesNet_N095w_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_test_0  
+
+Accuracy : 0.9928, Precision : 0.0882, Recall : 0.8571, F-score : 0.1600 
+
+#只在测试集中排异常阈值 + 数据错误修正后 第一次完整10epoch结果  2006_anomaly
+anomaly_detection_N095w_TimesNet_N095w_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9994, Precision : 0.9565, Recall : 0.9706, F-score : 0.9635 
+
+#2006_anomaly 对验证集做了修正 10个epoch 没去点调整 但batch_size设的32 导致精度很低
+anomaly_detection_N095w_TimesNet_N095w_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9924, Precision : 0.5072, Recall : 0.5147, F-score : 0.5109 
+
+#2006_anomaly 对验证集做了修正 10个epoch 没去点调整 但batch_size设的128 精度又回来了 但训练集分了7000数据给验证集 可能训练的少了 所以相比没分 下降了0.03  10个epoch loss还在降 或许继续训还能涨精度
+anomaly_detection_N095w_TimesNet_N095w_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9990, Precision : 0.9275, Recall : 0.9412, F-score : 0.9343 
+
+#2006_anomaly 没更改验证集 batach_size 128 去掉了点调整
+anomaly_detection_N095w_TimesNet_N095w_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9993, Precision : 0.9559, Recall : 0.9559, F-score : 0.9559 
+
+#用更改后的代码 再次跑SMD  没加点调整   准确度极低
+anomaly_detection_SMD_TimesNet_SMD_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9576, Precision : 0.4190, Recall : 0.0504, F-score : 0.0900 
+
+anomaly_detection_SMD_TimesNet_SMD_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9577, Precision : 0.4232, Recall : 0.0509, F-score : 0.0909 
+
+anomaly_detection_SMD_TimesNet_SMD_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9564, Precision : 0.3597, Recall : 0.0626, F-score : 0.1067 
+
+anomaly_detection_SMD_TimesNet_SMD_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9576, Precision : 0.4207, Recall : 0.0506, F-score : 0.0903 
+
+##用更改后的代码 再次跑SMD  加了点调整   准确度上升很明显
+anomaly_detection_SMD_TimesNet_SMD_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9747, Precision : 0.8685, Recall : 0.4616, F-score : 0.6028 
+
+
+#我的更改部分再用N数据测了一下 以免上次高分数是偶然的
+anomaly_detection_N095w_TimesNet_N095w_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9993, Precision : 0.9559, Recall : 0.9559, F-score : 0.9559 
+
+#testAnomaly  batch改到128（没去点调整）  效果确实好很多  但按理来说它效果应该会比训练集有异常的更好呀？？？
+anomaly_detection_N095w_TimesNet_N095w_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9970, Precision : 0.8088, Recall : 0.8088, F-score : 0.8088 
+
+#由于发现SMD不拉通排比拉通准确度更低  所以经过一顿分析  我确认我的不拉通排方法没错 只是按我的方法 说明SMD 设置的0.5不是它真实的测试集异常比例 按我的推理 她真是的比例更大 这里 我取0.75 实验试试看 0.75+不拉通+点调整 如果结果比之前好  说明我的方法有效 推理没错
+#准确度上升了5%  但很奇怪 推出来的真实异常总数 两个地方不一样  所以真实异常到底是多少呢？为什么会出现这种情况呢
+anomaly_detection_SMD_TimesNet_SMD_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9762, Precision : 0.8224, Recall : 0.5448, F-score : 0.6554 
+
+#SMD  按原来的方法 拉通排+0.5+test_loader+点调整  效果最好
+anomaly_detection_SMD_TimesNet_SMD_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9877, Precision : 0.8794, Recall : 0.8154, F-score : 0.8462 
+
+anomaly_detection_N095w_TimesNet_N095w_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9970, Precision : 0.8088, Recall : 0.8088, F-score : 0.8088 
+
+anomaly_detection_N095w_TimesNet_N095w_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9970, Precision : 0.8088, Recall : 0.8088, F-score : 0.8088 
+
+anomaly_detection_N095w_TimesNet_N095w_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9970, Precision : 0.8088, Recall : 0.8088, F-score : 0.8088 
+
+anomaly_detection_N095w_TimesNet_N095w_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9970, Precision : 0.8088, Recall : 0.8088, F-score : 0.8088 
+
+anomaly_detection_N095w_TimesNet_N095w_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9970, Precision : 0.8088, Recall : 0.8088, F-score : 0.8088 
+
+anomaly_detection_N095w_TimesNet_N095w_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9970, Precision : 0.8088, Recall : 0.8088, F-score : 0.8088 
+
+anomaly_detection_N095w_TimesNet_N095w_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9970, Precision : 0.8088, Recall : 0.8088, F-score : 0.8088 
+
+anomaly_detection_N095w_TimesNet_N095w_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9970, Precision : 0.8088, Recall : 0.8088, F-score : 0.8088 
+
+anomaly_detection_N095w_TimesNet_N095w_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9970, Precision : 0.8088, Recall : 0.8088, F-score : 0.8088 
+
+anomaly_detection_N095w_TimesNet_N095w_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9993, Precision : 0.9559, Recall : 0.9559, F-score : 0.9559 
+
+anomaly_detection_N095w_TimesNet_N095w_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9993, Precision : 0.9559, Recall : 0.9559, F-score : 0.9559 
+
+anomaly_detection_N095w_TimesNet_N095w_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9955, Precision : 0.7059, Recall : 0.7059, F-score : 0.7059 
+
+#AIRT单独异常的结果
+anomaly_detection_N095w_TimesNet_N095w_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9991, Precision : 0.9412, Recall : 0.9412, F-score : 0.9412 
+
+#SST单独异常的结果
+anomaly_detection_N095w_TimesNet_N095w_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9982, Precision : 0.8824, Recall : 0.8824, F-score : 0.8824 
+
+
+anomaly_detection_N095w_TimesNet_N095w_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9986, Precision : 0.9118, Recall : 0.9118, F-score : 0.9118 
+
+anomaly_detection_N095w_TimesNet_N095w_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9982, Precision : 0.8824, Recall : 0.8824, F-score : 0.8824 
+

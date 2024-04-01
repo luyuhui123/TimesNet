@@ -143,12 +143,9 @@ Accuracy : 0.9991, Precision : 0.9412, Recall : 0.9412, F-score : 0.9412
 
 #SST单独异常的结果
 anomaly_detection_N095w_TimesNet_N095w_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_test_0  
-Accuracy : 0.9982, Precision : 0.8824, Recall : 0.8824, F-score : 0.8824 
-
-
-anomaly_detection_N095w_TimesNet_N095w_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_test_0  
 Accuracy : 0.9986, Precision : 0.9118, Recall : 0.9118, F-score : 0.9118 
 
+#PRES单独异常的结果
 anomaly_detection_N095w_TimesNet_N095w_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_test_0  
 Accuracy : 0.9982, Precision : 0.8824, Recall : 0.8824, F-score : 0.8824 
 

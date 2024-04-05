@@ -2,7 +2,7 @@ export CUDA_VISIBLE_DEVICES=1
 
 python -u run.py \
   --task_name anomaly_detection \
-  --is_training 1 \
+  --is_training 0 \
   --root_path ./dataset/SMD/N095w \
   --model_id N095w \
   --model TimesNet \

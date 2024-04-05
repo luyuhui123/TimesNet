@@ -149,3 +149,114 @@ Accuracy : 0.9986, Precision : 0.9118, Recall : 0.9118, F-score : 0.9118
 anomaly_detection_N095w_TimesNet_N095w_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_test_0  
 Accuracy : 0.9982, Precision : 0.8824, Recall : 0.8824, F-score : 0.8824 
 
+anomaly_detection_N095w_TimesNet_N095w_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9903, Precision : 0.4309, Recall : 0.7794, F-score : 0.5550 
+
+anomaly_detection_N095w_TimesNet_N095w_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9923, Precision : 0.5000, Recall : 0.7500, F-score : 0.6000 
+
+anomaly_detection_N095w_TimesNet_N095w_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9923, Precision : 0.5000, Recall : 0.7500, F-score : 0.6000 
+
+anomaly_detection_N095w_TimesNet_N095w_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9897, Precision : 0.4065, Recall : 0.7353, F-score : 0.5236 
+
+anomaly_detection_N095w_TimesNet_N095w_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9903, Precision : 0.4309, Recall : 0.7794, F-score : 0.5550 
+
+anomaly_detection_N095w_TimesNet_N095w_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9903, Precision : 0.4309, Recall : 0.7794, F-score : 0.5550 
+
+anomaly_detection_N095w_TimesNet_N095w_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9930, Precision : 0.5300, Recall : 0.7794, F-score : 0.6310 
+
+anomaly_detection_N095w_TimesNet_N095w_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9933, Precision : 0.5464, Recall : 0.7794, F-score : 0.6424 
+
+anomaly_detection_N095w_TimesNet_N095w_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9933, Precision : 0.5464, Recall : 0.7794, F-score : 0.6424 
+
+anomaly_detection_N095w_TimesNet_N095w_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9936, Precision : 0.5638, Recall : 0.7794, F-score : 0.6543 
+
+anomaly_detection_N095w_TimesNet_N095w_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9936, Precision : 0.5638, Recall : 0.7794, F-score : 0.6543 
+
+anomaly_detection_N095w_TimesNet_N095w_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9936, Precision : 0.5638, Recall : 0.7794, F-score : 0.6543 
+
+anomaly_detection_N095w_TimesNet_N095w_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9933, Precision : 0.5464, Recall : 0.7794, F-score : 0.6424 
+
+anomaly_detection_N095w_TimesNet_N095w_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9936, Precision : 0.5638, Recall : 0.7794, F-score : 0.6543 
+
+anomaly_detection_N095w_TimesNet_N095w_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9936, Precision : 0.5638, Recall : 0.7794, F-score : 0.6543 
+
+anomaly_detection_N095w_TimesNet_N095w_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9933, Precision : 0.5495, Recall : 0.7353, F-score : 0.6289 
+
+anomaly_detection_N095w_TimesNet_N095w_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9948, Precision : 0.6375, Recall : 0.7500, F-score : 0.6892 
+
+anomaly_detection_N095w_TimesNet_N095w_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9948, Precision : 0.6375, Recall : 0.7500, F-score : 0.6892 
+
+anomaly_detection_N095w_TimesNet_N095w_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9948, Precision : 0.6375, Recall : 0.7500, F-score : 0.6892 
+
+anomaly_detection_N095w_TimesNet_N095w_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9948, Precision : 0.6375, Recall : 0.7500, F-score : 0.6892 
+
+anomaly_detection_N095w_TimesNet_N095w_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9923, Precision : 0.0000, Recall : 0.0000, F-score : 0.0000 
+
+anomaly_detection_N095w_TimesNet_N095w_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9923, Precision : 0.0000, Recall : 0.0000, F-score : 0.0000 
+
+anomaly_detection_N095w_TimesNet_N095w_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9923, Precision : 0.0000, Recall : 0.0000, F-score : 0.0000 
+
+anomaly_detection_N095w_TimesNet_N095w_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9923, Precision : 0.0000, Recall : 0.0000, F-score : 0.0000 
+
+anomaly_detection_N095w_TimesNet_N095w_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9843, Precision : 0.0139, Recall : 0.0147, F-score : 0.0143 
+
+anomaly_detection_N095w_TimesNet_N095w_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9843, Precision : 0.0139, Recall : 0.0147, F-score : 0.0143 
+
+anomaly_detection_N095w_TimesNet_N095w_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9843, Precision : 0.0139, Recall : 0.0147, F-score : 0.0143 
+
+anomaly_detection_N095w_TimesNet_N095w_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9936, Precision : 1.0000, Recall : 0.1765, F-score : 0.3000 
+
+anomaly_detection_N095w_TimesNet_N095w_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9941, Precision : 1.0000, Recall : 0.2353, F-score : 0.3810 
+
+anomaly_detection_N095w_TimesNet_N095w_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9941, Precision : 1.0000, Recall : 0.2353, F-score : 0.3810 
+
+anomaly_detection_N095w_TimesNet_N095w_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9974, Precision : 0.7922, Recall : 0.8971, F-score : 0.8414 
+
+anomaly_detection_N095w_TimesNet_N095w_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9923, Precision : 0.0000, Recall : 0.0000, F-score : 0.0000 
+
+anomaly_detection_N095w_TimesNet_N095w_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9915, Precision : 0.0000, Recall : 0.0000, F-score : 0.0000 
+
+anomaly_detection_N095w_TimesNet_N095w_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9910, Precision : 0.0000, Recall : 0.0000, F-score : 0.0000 
+
+anomaly_detection_N095w_TimesNet_N095w_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9030, Precision : 0.0544, Recall : 0.7059, F-score : 0.1011 
+
+anomaly_detection_N095w_TimesNet_N095w_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9915, Precision : 0.4696, Recall : 0.7941, F-score : 0.5902 
+
+anomaly_detection_N095w_TimesNet_N095w_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9941, Precision : 0.5870, Recall : 0.7941, F-score : 0.6750 
+

@@ -311,7 +311,7 @@ class Model(nn.Module):
             return dec_out  # [B, L, D]
         if self.task_name == 'anomaly_detection':
             dec_out = self.anomaly_detection(x_enc)
-            return dec_out  # [B, L, D]
+            return dec_out  # [B, L, D]  batch_size  时序长度  特征维度
         if self.task_name == 'classification':
             dec_out = self.classification(x_enc, x_mark_enc)
             return dec_out  # [B, N]

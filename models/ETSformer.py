@@ -8,7 +8,8 @@ class Model(nn.Module):
     """
     Paper link: https://arxiv.org/abs/2202.01381
     """
-
+    #self指的是调用该函数的对象 
+    # _init_()方法的作用：初始化对象  设置初始化属性
     def __init__(self, configs):
         super(Model, self).__init__()
         self.task_name = configs.task_name

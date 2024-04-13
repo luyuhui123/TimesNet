@@ -502,7 +502,6 @@ class SMAPSegLoader(Dataset):
             return np.float32(self.test[
                               index // self.step * self.win_size:index // self.step * self.win_size + self.win_size]), np.float32(
                 self.test_labels[index // self.step * self.win_size:index // self.step * self.win_size + self.win_size])
-
 class NO95WSegLoader(object):
     def __init__(self, root_path, win_size, step=1, flag="train"):
         self.flag = flag

@@ -3,7 +3,7 @@ export CUDA_VISIBLE_DEVICES=2
 python -u run.py \
   --task_name anomaly_detection \
   --is_training 1 \
-  --root_path ./dataset/SMD \
+  --root_path ./dataset/SMD/SMD \
   --model_id SMD \
   --model TimesNet \
   --data SMD \

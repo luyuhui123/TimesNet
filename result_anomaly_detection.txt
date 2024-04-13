@@ -1,0 +1,29 @@
+#初始化测试  正常  连着排
+anomaly_detection_N095w_TimesNet_N095w_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9984, Precision : 0.9219, Recall : 0.8676, F-score : 0.8939 
+#初始化测试  正常  不连着排
+anomaly_detection_N095w_TimesNet_N095w_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9982, Precision : 0.8824, Recall : 0.8824, F-score : 0.8824 
+#加入GAT 连着排  AIRT
+anomaly_detection_N095w_TimesNet_3_0.2_-1_True_N095w_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9973, Precision : 0.9231, Recall : 0.7059, F-score : 0.8000 
+#加入GAT 不连着排 AIRT
+anomaly_detection_N095w_TimesNet_3_0.2_-1_True_N095w_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9986, Precision : 0.9118, Recall : 0.9118, F-score : 0.9118 
+#加入GAT 不连着排 PRE
+anomaly_detection_N095w_TimesNet_3_0.2_-1_True_N095w_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9989, Precision : 0.9265, Recall : 0.9265, F-score : 0.9265 
+#加入GAT 连着排 PRE
+anomaly_detection_N095w_TimesNet_3_0.2_-1_True_N095w_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9991, Precision : 0.9545, Recall : 0.9265, F-score : 0.9403 
+
+
+anomaly_detection_N095w_TimesNet_3_0.2_-1_True_N095w_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9981, Precision : 0.9811, Recall : 0.7647, F-score : 0.8595 
+
+anomaly_detection_N095w_TimesNet_3_0.2_-1_True_N095w_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9989, Precision : 0.9265, Recall : 0.9265, F-score : 0.9265 
+
+anomaly_detection_N095w_TimesNet_3_0.2_-1_True_N095w_ftM_sl100_ll48_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_test_0  
+Accuracy : 0.9981, Precision : 0.9811, Recall : 0.7647, F-score : 0.8595 
+
